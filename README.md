@@ -37,6 +37,11 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [fettblog.eu](https://fettblog.eu)
 - [web.dev by Google](https://web.dev)
 
+## Books and articles
+
+- [Resilient Web Design](https://resilientwebdesign.com)
+- [How to simplify your design (article)](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9)
+
 ## CSS
 
 - [CSS reference](https://tympanus.net/codrops/css_reference/)
@@ -56,7 +61,6 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
 - [Coolors](https://coolors.co)
 - [Leonardo](https://leonardocolor.io/)
-- [How to simplify your design (article)](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9)
 
 ## User Experience
 
