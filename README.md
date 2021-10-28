@@ -70,4 +70,5 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 
 ## Miscellaneous
 
+- [Markup from hell – HTMHell](https://www.htmhell.dev)
 - [Motherf🐶cking website](https://motherfuckingwebsite.com)
