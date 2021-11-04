@@ -18,6 +18,7 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [Web development basics (blog post series)](https://www.scale.at/blog/collections/web-dev-basics)
 - [Interneting is hard](https://www.internetingishard.com)
 - [CSS for JavaScript Developers](https://css-for-js.dev) ($$)
+- [Learn Responsive Design!](https://web.dev/learn/design/)
 
 ## Tools
 
@@ -36,6 +37,7 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [CSS Tricks](https://css-tricks.com)
 - [fettblog.eu](https://fettblog.eu)
 - [web.dev by Google](https://web.dev)
+- [Josh W Comeau](https://www.joshwcomeau.com)
 
 ## Books and articles
 
