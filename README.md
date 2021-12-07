@@ -57,7 +57,7 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 
 - [Eloquent JavaScript](https://eloquentjavascript.net)
 
-## Web Design
+## Web Design (Tools)
 
 - [Google Web Fonts](https://fonts.google.com)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
@@ -74,3 +74,4 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 
 - [Markup from hell – HTMHell](https://www.htmhell.dev)
 - [Motherf🐶cking website](https://motherfuckingwebsite.com)
+- [Web Design Museum](https://www.webdesignmuseum.org)
