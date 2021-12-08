@@ -51,7 +51,6 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [CSS Cascade](https://wattenberger.com/blog/css-cascade)
 - [CSS Grid Garden](https://cssgridgarden.com)
 - [Flexbox Froggy](https://flexboxfroggy.com)
-- [Flexbox Defense](http://www.flexboxdefense.com/)
 
 ## JavaScript
 
@@ -69,6 +68,12 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [Laws of UX](https://lawsofux.com)
 - [UX Myths](https://uxmyths.com/)
 - [User in yer face](https://userinyerface.com)
+
+## Inspiration
+
+- [The Whimsical Web](https://whimsical.club)
+- [A Showcase of lovely little Websites](https://www.smashingmagazine.com/2021/11/showcase-lovely-little-websites/)
+- [Onepage love](https://onepagelove.com)
 
 ## Miscellaneous
 
