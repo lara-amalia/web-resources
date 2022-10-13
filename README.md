@@ -86,3 +86,4 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [Markup from hell – HTMHell](https://www.htmhell.dev)
 - [Motherf🐶cking website](https://motherfuckingwebsite.com)
 - [Web Design Museum](https://www.webdesignmuseum.org)
+- [HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)
