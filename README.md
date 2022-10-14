@@ -35,6 +35,7 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [Squoosh (image optimization)](https://squoosh.app)
 - [SVGOMG (SVG optimization)](https://jakearchibald.github.io/svgomg/)
 - [Google Webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)
+- [Favicon generator](https://realfavicongenerator.net)
 
 ## Blogs
 
