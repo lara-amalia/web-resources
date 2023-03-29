@@ -53,9 +53,10 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 
 ## CSS
 
-- [CSS reference](https://tympanus.net/codrops/css_reference/)
-- [CSS Mistakes](https://wiki.csswg.org/ideas/mistakes)
-- [CSS Cascade](https://wattenberger.com/blog/css-cascade)
+- [CSS reference](https://tympanus.net/codrops/css_reference/): An extensive CSS reference with all the important properties and info to learn CSS from the basics
+- [CSS Mistakes](https://wiki.csswg.org/ideas/mistakes): Incomplete List of Mistakes in the Design of CSS
+- [CSS Guidelines](https://cssguidelin.es): High-level advice and guidelines for writing sane, manageable, scalable CSS by Harry Roberts
+- [CSS Cascade](https://wattenberger.com/blog/css-cascade) by Amelia Wattenberger
 - [CSS Grid Garden](https://cssgridgarden.com)
 - [Flexbox Froggy](https://flexboxfroggy.com)
 
