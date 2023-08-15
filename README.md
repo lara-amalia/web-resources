@@ -39,12 +39,14 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 
 ## Blogs
 
-- [scale Blog](https://www.scale.at/blog)
+- [scale Blog](https://www.scale.at/blog): A small scale blog about large scale projects
+- [fettblog.eu](https://fettblog.eu): A blog about TypeScript, Rust, and more...
+- [Pimp my Type](https://pimpmytype.com/articles/): A blog about web typography and design
+- [matuzo.at](https://www.matuzo.at/blog/): A blog about web development, HTML, CSS, JavaScript, and web accessibility.
 - [Smashing Magazine](https://www.smashingmagazine.com)
 - [CSS Tricks](https://css-tricks.com)
-- [fettblog.eu](https://fettblog.eu)
 - [web.dev by Google](https://web.dev)
-- [Josh W Comeau](https://www.joshwcomeau.com)
+- [Josh W. Comeau](https://www.joshwcomeau.com)
 
 ## Books and articles
 
