@@ -16,7 +16,6 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [JavaScript on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [A11y coffee](https://a11y.coffee)
 - [Web development basics (blog post series)](https://www.scale.at/blog/collections/web-dev-basics)
-- [Interneting is hard](https://www.internetingishard.com)
 - [CSS for JavaScript Developers](https://css-for-js.dev) ($$)
 - [Learn HTML](https://web.dev/learn/html/)
 - [Learn Responsive Design!](https://web.dev/learn/design/)
