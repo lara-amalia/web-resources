@@ -25,6 +25,10 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 
 - [HTTP 203 on YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9)
 - [Designing in the Browser on YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
+- [@btconf (beyond tellerrand) on YouTube](https://www.youtube.com/@btconf)
+- [@SmashingMagazineVideos on YouTube](https://www.youtube.com/@SmashingMagazineVideos)
+- [StahlstadtJS on YouTube](https://www.youtube.com/@stahlstadtjs9058)
+- [ScriptConf on YouTube](https://www.youtube.com/@Scriptconf)
 
 ## Tools
 
