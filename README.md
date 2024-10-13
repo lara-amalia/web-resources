@@ -18,12 +18,15 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [Web development basics (blog post series)](https://www.scale.at/blog/collections/web-dev-basics)
 - [CSS for JavaScript Developers](https://css-for-js.dev) ($$)
 - [Learn HTML](https://web.dev/learn/html/)
-- [Learn Responsive Design!](https://web.dev/learn/design/)
+- [Learn CSS](https://web.dev/learn/css)
+- [Learn Responsive Design](https://web.dev/learn/design/)
 
-## Videos
+## Videos & podcasts
 
 - [HTTP 203 on YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9)
+- [Off The Main Thread Podcast](https://offthemainthread.tech)
 - [Designing in the Browser on YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
+- [The CSS Podcast](https://thecsspodcast.libsyn.com)
 - [@btconf (beyond tellerrand) on YouTube](https://www.youtube.com/@btconf)
 - [@SmashingMagazineVideos on YouTube](https://www.youtube.com/@SmashingMagazineVideos)
 - [StahlstadtJS on YouTube](https://www.youtube.com/@stahlstadtjs9058)
@@ -37,7 +40,6 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [CSS Stats](https://cssstats.com)
 - [Squoosh (image optimization)](https://squoosh.app)
 - [SVGOMG (SVG optimization)](https://jakearchibald.github.io/svgomg/)
-- [Google Webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)
 - [Favicon generator](https://realfavicongenerator.net)
 
 ## Blogs
@@ -47,21 +49,26 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [Pimp my Type](https://pimpmytype.com/articles/): A blog about web typography and design
 - [matuzo.at](https://www.matuzo.at/blog/): A blog about web development, HTML, CSS, JavaScript, and web accessibility.
 - [Smashing Magazine](https://www.smashingmagazine.com)
-- [CSS Tricks](https://css-tricks.com)
 - [web.dev by Google](https://web.dev)
 - [Josh W. Comeau](https://www.joshwcomeau.com)
+- [Rachel Andrew](https://rachelandrew.co.uk/archives/)
+- [Miriam Suzanne](https://www.miriamsuzanne.com/writing/)
+- [Andy Bell](https://andy-bell.co.uk/blog/)
+- [Piccalilli](https://piccalil.li/blog/)
+- [Matthias Ott](https://matthiasott.com/articles)
 
 ## Books and articles
 
 - [Resilient Web Design](https://resilientwebdesign.com)
 - [How to simplify your design (article)](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9)
+- [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/)
 
 ## CSS
 
 - [CSS reference](https://tympanus.net/codrops/css_reference/): An extensive CSS reference with all the important properties and info to learn CSS from the basics
 - [CSS Mistakes](https://wiki.csswg.org/ideas/mistakes): Incomplete List of Mistakes in the Design of CSS
 - [CSS Guidelines](https://cssguidelin.es): High-level advice and guidelines for writing sane, manageable, scalable CSS by Harry Roberts
-- [CSS Cascade](https://wattenberger.com/blog/css-cascade) by Amelia Wattenberger
+- [Defensive CSS](https://defensivecss.dev): Practical CSS and design tips that helps in building future-proof user interfaces by Ahmad Shadeed
 - [CSS Grid Garden](https://cssgridgarden.com)
 - [Flexbox Froggy](https://flexboxfroggy.com)
 
@@ -72,7 +79,7 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 ## Web Design (Tools)
 
 - [Google Web Fonts](https://fonts.google.com)
-- [google-webfonts-helper](https://gwfh.mranftl.com/fonts)
+- [Google Webfonts helper](https://gwfh.mranftl.com/fonts)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
 - [Coolors](https://coolors.co)
 - [Leonardo](https://leonardocolor.io/)
