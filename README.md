@@ -20,6 +20,7 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [Learn HTML](https://web.dev/learn/html/)
 - [Learn CSS](https://web.dev/learn/css)
 - [Learn Responsive Design](https://web.dev/learn/design/)
+- [HTML for People](https://htmlforpeople.com)
 
 ## Videos & podcasts
 
