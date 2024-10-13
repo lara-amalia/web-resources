@@ -63,6 +63,8 @@ Documentation, tools, tutorials, fun stuff, helpful articles, things I like…
 - [Resilient Web Design](https://resilientwebdesign.com)
 - [How to simplify your design (article)](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9)
 - [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/)
+- [Refactoring UI](https://www.refactoringui.com)
+- [Answers to Common (Web) Design Questions (article)](https://chriscoyier.net/2023/10/31/answers-to-common-web-design-questions/)
 
 ## CSS
 
